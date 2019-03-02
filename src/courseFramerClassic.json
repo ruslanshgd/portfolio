@@ -1,0 +1,213 @@
+{
+    "lessonList": [{
+            "id": "1",
+            "title": "Введение",
+            "info": "2 мин 58 сек",
+            "link": "https://www.youtube.com/watch?v=T6BCdwEqxOo&index=1&list=PLlynnRBzLmmg0nwdXkehEa57rC4m9CrSF",
+            "gradient": "linear-gradient(52deg, #D4145A 0% , #FBB03B 95%)"
+        },
+        {
+            "id": "2",
+            "title": "Интерфейс Framer",
+            "info": "10 мин 6 сек",
+            "link": "https://www.youtube.com/watch?v=TcX8Rhrqns8&index=2&list=PLlynnRBzLmmg0nwdXkehEa57rC4m9CrSF",
+            "gradient": "linear-gradient(52deg, #2E3192 0%, #1BFFFF 95%)"
+        },
+        {
+            "id": "4",
+            "title": "Основы Coffescript",
+            "info": "10 видео. ~40 мин",
+            "link": "https://www.youtube.com/watch?v=9CdgbhzMytU&index=3&list=PLlynnRBzLmmg0nwdXkehEa57rC4m9CrSF",
+            "gradient": "linear-gradient(52deg, #00A8C5 0% , #FFFF7E 95%)"
+        },
+        {
+            "id": "5",
+            "title": "Слои. Свойства",
+            "info": "7 мин 11 сек",
+            "link": "https://www.youtube.com/watch?v=JABE9TXO6BQ&index=13&list=PLlynnRBzLmmg0nwdXkehEa57rC4m9CrSF",
+            "gradient": "linear-gradient(52deg, #00A8C5 0% , #FFFF7E 95%)"
+        },
+        {
+            "id": "6",
+            "title": "Слои. Стилизация",
+            "info": "9 мин 5 сек",
+            "link": "https://www.youtube.com/watch?v=VibzkPT6bBw&index=14&list=PLlynnRBzLmmg0nwdXkehEa57rC4m9CrSF",
+            "gradient": "linear-gradient(52deg, #00A8C5 0% , #FFFF7E 95%)"
+        },
+        {
+            "id": "7",
+            "title": "Импорт из Sketch",
+            "info": "6 мин 28 сек",
+            "link": "https://www.youtube.com/watch?v=cPj7mMlasH4&index=15&list=PLlynnRBzLmmg0nwdXkehEa57rC4m9CrSF",
+            "gradient": "linear-gradient(52deg, #ED1C24 0% , #FCEE21 95%)"
+        },
+        {
+            "id": "8",
+            "title": "Анимация. Свойства",
+            "info": "5 мин 50 сек",
+            "link": "https://www.youtube.com/watch?v=ElPaFKYYbDs&index=16&list=PLlynnRBzLmmg0nwdXkehEa57rC4m9CrSF",
+            "gradient": "linear-gradient(52deg, #B066FE 0% , #63E2FF 95%)"
+        },
+        {
+            "id": "9",
+            "title": "Анимация. Тайминг, кривые и повторы",
+            "info": "5 мин 43 сек",
+            "link": "https://www.youtube.com/watch?v=jHZ-gjmEyrg&index=17&list=PLlynnRBzLmmg0nwdXkehEa57rC4m9CrSF",
+            "gradient": "linear-gradient(52deg, #B066FE 0% , #63E2FF 95%)"
+        },
+        {
+            "id": "10",
+            "title": "Анимация. Виды кривых",
+            "info": "5 мин 31 сек",
+            "link": "https://www.youtube.com/watch?v=nU7k6tcBx3k&index=18&list=PLlynnRBzLmmg0nwdXkehEa57rC4m9CrSF",
+            "gradient": "linear-gradient(52deg, #B066FE 0% , #63E2FF 95%)"
+        },
+        {
+            "id": "11",
+            "title": "Свойства по умолчанию",
+            "info": "2 мин 46 сек",
+            "link": "https://www.youtube.com/watch?v=9nRo9tgkJbw&index=19&list=PLlynnRBzLmmg0nwdXkehEa57rC4m9CrSF",
+            "gradient": "linear-gradient(52deg, #FB872B 0% , #D9E021 95%)"
+        },
+        {
+            "id": "12",
+            "title": "Сниппеты",
+            "info": "8 мин 13 сек",
+            "link": "https://www.youtube.com/watch?v=BSiNDbXKoPY&index=20&list=PLlynnRBzLmmg0nwdXkehEa57rC4m9CrSF",
+            "gradient": "linear-gradient(52deg, #009245 0% , #FCEE21 95%)"
+        },
+        {
+            "id": "13",
+            "title": "Вспомогательные функции Utils",
+            "info": "5 мин 44 сек",
+            "link": "https://www.youtube.com/watch?v=AfpgZS-1HF4&index=21&list=PLlynnRBzLmmg0nwdXkehEa57rC4m9CrSF",
+            "gradient": "linear-gradient(52deg, #662D8C 0% , #ED1E79 95%)"
+        },
+        {
+            "id": "14",
+            "title": "События. onTap",
+            "info": "11 мин 49 сек",
+            "link": "https://www.youtube.com/watch?v=H8paYoDJzss&index=22&list=PLlynnRBzLmmg0nwdXkehEa57rC4m9CrSF",
+            "gradient": "linear-gradient(52deg, #00B7FF 0% , #FFFFC7 95%)"
+        },
+        {
+            "id": "15",
+            "title": "Объекты анимации и их цепочки",
+            "info": "7 мин 12 сек",
+            "link": "https://www.youtube.com/watch?v=CC6uqjY5Ij8&index=23&list=PLlynnRBzLmmg0nwdXkehEa57rC4m9CrSF",
+            "gradient": "linear-gradient(52deg, #00537E 0% , #3AA17E 95%)"
+        },
+        {
+            "id": "16",
+            "title": "События. Drag",
+            "info": "10 мин 2 сек",
+            "link": "https://www.youtube.com/watch?v=ArPVbOZ6ymk&index=24&list=PLlynnRBzLmmg0nwdXkehEa57rC4m9CrSF",
+            "gradient": "linear-gradient(52deg, #00B7FF 0% , #FFFFC7 95%)"
+        },
+        {
+            "id": "17",
+            "title": "Состояния",
+            "info": "13 мин",
+            "link": "https://www.youtube.com/watch?v=T912uTSL34w&index=25&list=PLlynnRBzLmmg0nwdXkehEa57rC4m9CrSF",
+            "gradient": "linear-gradient(52deg, #FCA5F1 0% , #B5FFFF 95%)"
+        },
+        {
+            "id": "18",
+            "title": "Компоненты. Scroll",
+            "info": "13 мин 55 сек",
+            "link": "https://www.youtube.com/watch?v=pb_wYfrmST8&index=26&list=PLlynnRBzLmmg0nwdXkehEa57rC4m9CrSF",
+            "gradient": "linear-gradient(52deg, #4F00BC 0% , #29ABE2 95%)"
+        },
+        {
+            "id": "19",
+            "title": "Компоненты. Page",
+            "info": "10 мин 22 сек",
+            "link": "https://www.youtube.com/watch?v=74RfeibQ-l4&index=27&list=PLlynnRBzLmmg0nwdXkehEa57rC4m9CrSF",
+            "gradient": "linear-gradient(52deg, #4F00BC 0% , #29ABE2 95%)"
+        },
+        {
+            "id": "20",
+            "title": "Модули и классы",
+            "info": "20 мин 54 сек",
+            "link": "https://www.youtube.com/watch?v=G9Wg1avpCNE&index=28&list=PLlynnRBzLmmg0nwdXkehEa57rC4m9CrSF",
+            "gradient": "linear-gradient(52deg, #45145A 0% , #FF5300 95%)"
+        },
+        {
+            "id": "21",
+            "title": "Финальный проект. Обзор макета",
+            "info": "3 мин 16 сек",
+            "link": "https://www.youtube.com/watch?v=wRp3OOusqic&index=29&list=PLlynnRBzLmmg0nwdXkehEa57rC4m9CrSF",
+            "gradient": "linear-gradient(52deg, #EE5578 0% , #FF9E64 95%)"
+        },
+        {
+            "id": "22",
+            "title": "Финальный проект. Настройка проекта",
+            "info": "5 мин 19 сек",
+            "link": "https://www.youtube.com/watch?v=W6VlS0zSh8g&index=30&list=PLlynnRBzLmmg0nwdXkehEa57rC4m9CrSF",
+            "gradient": "linear-gradient(52deg, #EE5578 0% , #FF9E64 95%)"
+        },
+        {
+            "id": "23",
+            "title": "Финальный проект. Создаём первые классы",
+            "info": "10 мин 9 сек",
+            "link": "https://www.youtube.com/watch?v=ecnw8sXfe0s&index=31&list=PLlynnRBzLmmg0nwdXkehEa57rC4m9CrSF",
+            "gradient": "linear-gradient(52deg, #EE5578 0% , #FF9E64 95%)"
+        },
+        {
+            "id": "24",
+            "title": "Финальный проект. Пишем функции для анимации",
+            "info": "5 мин 44 сек",
+            "link": "https://www.youtube.com/watch?v=K7RdP_QDDnI&index=32&list=PLlynnRBzLmmg0nwdXkehEa57rC4m9CrSF",
+            "gradient": "linear-gradient(52deg, #EE5578 0% , #FF9E64 95%)"
+        },
+        {
+            "id": "25",
+            "title": "Финальный проект. Экран Startup",
+            "info": "5 мин 28 сек",
+            "link": "https://www.youtube.com/watch?v=NCUGWQeaA2s&index=33&list=PLlynnRBzLmmg0nwdXkehEa57rC4m9CrSF",
+            "gradient": "linear-gradient(52deg, #EE5578 0% , #FF9E64 95%)"
+        },
+        {
+            "id": "26",
+            "title": "Финальный проект. Экран Account",
+            "info": "6 мин 50 сек",
+            "link": "https://www.youtube.com/watch?v=c4R3ER9aARI&index=34&list=PLlynnRBzLmmg0nwdXkehEa57rC4m9CrSF",
+            "gradient": "linear-gradient(52deg, #EE5578 0% , #FF9E64 95%)"
+        },
+        {
+            "id": "27",
+            "title": "Финальный проект. Экран Home",
+            "info": "23 мин 58 сек",
+            "link": "https://www.youtube.com/watch?v=asWxUP_qVsE&index=35&list=PLlynnRBzLmmg0nwdXkehEa57rC4m9CrSF",
+            "gradient": "linear-gradient(52deg, #EE5578 0% , #FF9E64 95%)"
+        },
+        {
+            "id": "28",
+            "title": "Финальный проект. Экран Profile",
+            "info": "2 мин 21 сек",
+            "link": "https://www.youtube.com/watch?v=t05keAOHtZQ&index=36&list=PLlynnRBzLmmg0nwdXkehEa57rC4m9CrSF",
+            "gradient": "linear-gradient(52deg, #EE5578 0% , #FF9E64 95%)"
+        },
+        {
+            "id": "29",
+            "title": "Финальный проект. Работаем с Firebase",
+            "info": "17 мин 21 сек",
+            "link": "https://www.youtube.com/watch?v=F01dWlaBV-s&index=37&list=PLlynnRBzLmmg0nwdXkehEa57rC4m9CrSF",
+            "gradient": "linear-gradient(52deg, #EE5578 0% , #FF9E64 95%)"
+        },
+        {
+            "id": "30",
+            "title": "Финальный проект. Аналитика",
+            "info": "4 мин 46 сек",
+            "link": "https://www.youtube.com/watch?v=iBiAISIAFQA&index=38&list=PLlynnRBzLmmg0nwdXkehEa57rC4m9CrSF",
+            "gradient": "linear-gradient(52deg, #EE5578 0% , #FF9E64 95%)"
+        },
+        {
+            "id": "31",
+            "title": "Заключение",
+            "info": "2 мин 8 сек",
+            "link": "https://www.youtube.com/watch?v=LmBB5plFJXQ&index=39&list=PLlynnRBzLmmg0nwdXkehEa57rC4m9CrSF",
+            "gradient": "linear-gradient(52deg, #D585FF 0% , #00FFEE 95%)"
+        }
+    ]
+}

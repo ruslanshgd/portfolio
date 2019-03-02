@@ -1,0 +1,108 @@
+{
+    "jobs": [{
+            "id": 1,
+            "company": "Siemens",
+            "date": " — Present",
+            "link": "https://siemens.com"
+        },
+        {
+            "id": 2,
+            "company": "Kupibilet",
+            "date": " — Apr, 2017 — Jan, 2018",
+            "link": "https://kupibilet.ru"
+        },
+        {
+            "id": 3,
+            "company": "MPMG",
+            "date": " — Nov, 2016 — Mar, 2017",
+            "link": "https://mpmg.ru"
+        },
+        {
+            "id": 4,
+            "company": "Orbitum",
+            "date": " — July, 2015 — Oct, 2016",
+            "link": "https://orbitum.com"
+        },
+        {
+            "id": 5,
+            "company": "Atmosfera",
+            "date": " — June, 2005 — June, 2006",
+            "link": "https://siemens.com"
+        }
+    ],
+    "sideprojects": [{
+            "id": "1",
+            "title": "Quick Start: Framer Classic",
+            "description": " — video course on youtube — free, rus",
+            "link": "courses/framer",
+            "target": ""
+        },
+        {
+            "id": "2",
+            "title": "UXUI.wiki",
+            "description": " — ux/ui knowledge base — free, rus",
+            "link": "https://uxui.wiki/",
+            "target": "_blank"
+        },
+        {
+            "id": "3",
+            "title": "Design Tools",
+            "description": " — course in development — paid, eng",
+            "link": "https://uxui.wiki/",
+            "target": "_blank"
+        }
+    ],
+    "awards": [{
+        "id": "1",
+        "title": "Behance",
+        "description": " (3)"
+    }],
+    "skills": [{
+            "id": "1",
+            "title": "Soft:",
+            "description": " Team player."
+        },
+        {
+            "id": "2",
+            "title": "Hard:",
+            "description": " Sketch, Figma, Adobe CC, Axure, Invision, Protopie, Principle, Framer classic, Origami, HTML, CSS, Javascript, React, React-native, Jekyll, Wordpress, Pug, Gulp."
+        }
+    ],
+    "education": [{
+        "id": "1",
+        "title": "Official website.",
+        "description": "Saint-Petersburg State University of Industrial Technologies and Design Degree: Master, Graphic Design. ",
+        "link": "http://sutd.ru/en"
+    }],
+    "contacts": [{
+            "id": "1",
+            "title": "Email",
+            "link": "mailto:ruslanshgd@gmail.com"
+        },
+        {
+            "id": "2",
+            "title": "Behance",
+            "link": "https://be.net/ruslansh"
+        },
+        {
+            "id": "3",
+            "title": "Dribbble",
+            "link": "https://dribbble.com/ruslansharipov"
+        },
+        {
+            "id": "4",
+            "title": "LinkedIn",
+            "link": "https://www.linkedin.com/in/ruslan-sharipov/"
+        },
+        {
+            "id": "5",
+            "title": "Telegram",
+            "link": "https://t.me/@rsgdru"
+        },
+        {
+            "id": "6",
+            "title": "YouTube",
+            "link": "https://www.youtube.com/channel/UCjgCIYpW_XF3x1IFR56nytg/videos"
+        }
+    ]
+}

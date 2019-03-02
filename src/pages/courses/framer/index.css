@@ -1,0 +1,33 @@
+.intro-course-sharing {
+    display: flex;
+}
+
+.intro-course-sharing div {
+    cursor: pointer;
+    margin-right: 16px;
+    transition: all 0.24s ease;
+}
+
+.intro-course-sharing div div {
+    opacity: 0.56;
+}
+
+.intro-course-sharing div div:hover {
+    opacity: 1;
+}
+
+.intro-course-sharing div svg {
+    border-radius: 4px;
+}
+
+.intro-course-sharing div:last-child {
+    margin-right: 0px;
+}
+
+@media screen and (max-width: 410px) {
+    .intro-course-sharing {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+}
