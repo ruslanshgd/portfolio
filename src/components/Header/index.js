@@ -4,8 +4,8 @@ import React from "react";
 import "./header.css";
 import Button from "../Button";
 import CV from "../../docs/cv.pdf";
-import Resume from "../../docs/resume.pdf";
-import Portfolio from "../../docs/portfolio.pdf";
+// import Resume from "../../docs/resume.pdf";
+// import Portfolio from "../../docs/portfolio.pdf";
 
 class Header extends React.Component {
   state = {
@@ -59,7 +59,7 @@ class Header extends React.Component {
                   >
                     CV
                   </Button>
-                  <Button
+                  {/* <Button
                     link={Resume}
                     target="_blank"
                     rel="noopener noreferrer"
@@ -78,7 +78,7 @@ class Header extends React.Component {
                     bgHoverColor="#0487ff"
                   >
                     Portfolio
-                  </Button>
+                  </Button> */}
                 </div>
               </div>
             </div>
