@@ -10,7 +10,7 @@ import EducationList from "../components/EducationList";
 import ContactsList from "../components/ContactsList";
 import Section from "../components/Section";
 import List from "../components/List";
-
+import Button from '../components/Button'
 import data from "../data.json";
 
 const IndexPage = () => (
@@ -31,6 +31,16 @@ const IndexPage = () => (
       company. I love translate user and business need into usable products by
       using research, analytics, and practice. I prefer to work with small teams
       which proud and love their work.
+      <div style={{ marginTop: "1.6rem" }}>
+        <Button 
+          link="https://calendly.com/ruslan-sharipov"
+          target="_blank"
+          rel="noopener noreferrer"
+          textColor="#fff"
+          bgColor="#00aaff"
+          bgHoverColor="#0487ff">Make appointment
+        </Button>
+      </div>
     </Section>
 
     <Section title="Jobs">
@@ -110,6 +120,7 @@ const IndexPage = () => (
         ))}
       </List>
     </Section>
+    <Section></Section>
   </Layout>
 );
 
