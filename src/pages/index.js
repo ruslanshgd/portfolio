@@ -10,9 +10,9 @@ import EducationList from "../components/EducationList";
 import ContactsList from "../components/ContactsList";
 import Section from "../components/Section";
 import List from "../components/List";
-import Button from '../components/Button'
+import Button from '../components/Button';
+import Link from "../components/Typography/Link";
 import data from "../data.json";
-
 const IndexPage = () => (
   <Layout>
     <SEO
@@ -21,12 +21,12 @@ const IndexPage = () => (
     />
 
     <Incut>
-      Hi. I’m Ruslan Sharipov, UX/UI designer currently based in
+        Hi. I’m Ruslan Sharipov, UX/UI designer currently based in
       Saint-Petersburg, Russia.
     </Incut>
 
     <Section title="Overview">
-      With almost 5 years of work in UX/UI Design, I have worked across a broad
+        With almost 5 years of work in UX/UI Design, I have worked across a broad
       range of companies from startups and small to the enterprise level
       company. I love translate user and business need into usable products by
       using research, analytics, and practice. I prefer to work with small teams
@@ -40,6 +40,12 @@ const IndexPage = () => (
           bgColor="#00aaff"
           bgHoverColor="#0487ff">Make appointment
         </Button>
+        <Link 
+          href="mailto:ruslanshgd@gmail.com?subject=YourAwsomeProject"
+          target="_blank"
+          rel="noopener noreferrer"
+          textColor="#333">or just email me
+        </Link>
       </div>
     </Section>
 

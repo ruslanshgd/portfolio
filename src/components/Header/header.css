@@ -30,34 +30,9 @@
     align-items: center;
 }
 
-.Designer {
-    position: relative;
-    top: 0;
-    left: 0;
-}
-
-.Designer:hover .DesignerLogo {
-    opacity: 0;
-}
-
 .DesignerLogo {
-    margin-right: 0.8rem;
     width: 4rem;
     height: 4rem;
-    position: relative;
-    top: 0;
-    left: 0;
-    transition: all 0.8s cubic-bezier(0.2, 0.8, 0.2, 1);
-}
-
-.DesignerPhoto {
-    transition: all 0.8s cubic-bezier(0.2, 0.8, 0.2, 1);
-    width: 4rem;
-    height: 4rem;
-    position: absolute;
-    top: 0;
-    left: 0;
-    z-index: -100;
 }
 
 @media (max-width: 735px) {

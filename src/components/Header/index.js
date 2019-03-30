@@ -3,6 +3,9 @@ import PropTypes from "prop-types";
 import React from "react";
 import "./header.css";
 import Button from "../Button";
+import CV from "../../docs/cv.pdf";
+import Resume from "../../docs/resume.pdf";
+import Portfolio from "../../docs/portfolio.pdf";
 
 class Header extends React.Component {
   state = {
@@ -39,22 +42,15 @@ class Header extends React.Component {
                     transformStyle: "preserve-3d"
                   }}
                 >
-                  <span className="Designer">
                     <img
                       className="DesignerLogo"
                       src={require("../../images/logo-rs.svg")}
                       alt="Ruslan Sharipov logo"
                     />
-                    <img
-                      className="DesignerPhoto"
-                      src={require("../../images/photo-rs.jpg")}
-                      alt="Ruslan Sharipov logo"
-                    />
-                  </span>
                 </Link>
                 <div className="ButtonGroup">
                   <Button
-                    link="#"
+                    link={CV}
                     target="_blank"
                     rel="noopener noreferrer"
                     textColor="#fff"
@@ -64,7 +60,7 @@ class Header extends React.Component {
                     CV
                   </Button>
                   <Button
-                    link="#"
+                    link={Resume}
                     target="_blank"
                     rel="noopener noreferrer"
                     textColor="#fff"
@@ -74,7 +70,7 @@ class Header extends React.Component {
                     Resume
                   </Button>
                   <Button
-                    link="#"
+                    link={Portfolio}
                     target="_blank"
                     rel="noopener noreferrer"
                     textColor="#fff"
